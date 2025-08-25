@@ -22,7 +22,7 @@ repository               : "sean-reese.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "Reese_Sean_SDEV.jpeg"
+  avatar           : "Reese_Sean_SDEV.png"
   name             : "Sean Reese"
   pronouns         : "he/him/his"
   bio              : "Certified cool guy"
