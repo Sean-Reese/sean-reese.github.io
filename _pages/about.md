@@ -11,4 +11,8 @@ Hello! I am a third-year PhD student in the Sustainable Development program at C
 
 My primary research interests are in natural resources, with a focus on biodiversity and fisheries. 
 
-I received a BA in Economics-Public Policy, a BS in Environmental Systems, and a Master of Public Policy from UC San Diego, where he graduated Phi Beta Kappa and magna cum laude. Prior to starting his PhD at Columbia, Sean worked as a Graduate Student Researcher in UCSD's Environment and Policy Group where he worked on projects such as fisheries management, air pollution equity, and wetlands restoration. In my free time, I love playing guitar, watching birds, and taking pictures! Nerdier hobbies include watching anime and playing Magic: the Gathering.
+Prior to joining Columbia, I worked as a Graduate Student Researcher in UCSD's Environment and Policy Group where I worked on air pollution equity and wetlands restoration.
+
+I graduated Phi Beta Kappa and magna cum laude from UC San Diego where I received a BA in Economics-Public Policy, a BS in Environmental Systems, and a Master of Public Policy. 
+
+In my free time, I enjoy playing the guitar, watching birds, and taking pictures! Nerdier hobbies include watching anime and playing Magic: The Gathering.
