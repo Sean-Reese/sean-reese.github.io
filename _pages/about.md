@@ -8,3 +8,5 @@ redirect_from:
 ---
 
 Hello!
+======
+Lorem ipsum
