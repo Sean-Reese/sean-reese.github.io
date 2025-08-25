@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hello!"
+title                    : "Sean Reese"
 title_separator          : "-"
 name                     : &name "Sean Reese"
 description              : &description "PhD Student in Sustainable Development"
@@ -27,7 +27,7 @@ author:
   pronouns         : # example: "she/her"  
   bio              : "Certified cool guy"
   location         : "New York, New York"
-  employer         : "Red Brick University"
+  employer         : "Columbia University"
   uri              : # URL
   email            : "sean.reese@ecolumbia.edu" 
 
