@@ -26,7 +26,7 @@ author:
   name             : "Sean Reese"
   pronouns         : "he/him/his"
   bio              : "Certified cool guy"
-  location         : "New York, New York"
+  #location         : "New York, New York"
   employer         : "Columbia University"
   uri              : # URL
   sean.reese@columbia.edu: "sean.reese@ecolumbia.edu" 
@@ -51,7 +51,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
