@@ -5,14 +5,11 @@ permalink: /research/
 author_profile: true
 ---
 
-This is a test to see if it works!
+## Publications
+Air quality equity in US climate policy
 
-
-Hello!
-=======
-
-Working Papers
-
-Publications
-
-Work in Progress
+## Work in Progress
+* Evidence of Fishery-Induced Evolution in Alaska Fisheries
+* Coastal Upwelling Intensity and Fishery Productivity
+* Keystone Species Collapse and Fishery Productivity
+* Aquaculture, Climate, and Dengue Outbreaks in Bangladesh (with Seung Min Kim)
